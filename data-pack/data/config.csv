@@ -1,7 +1,7 @@
 ﻿path,value,scope,scope_code
 design/header/logo_width,148,,
 design/header/logo_height,43,,
-design/theme/theme_id,3,,
+design/theme/theme_id,2,,
 design/header/welcome," ",,
 customer/account_share/scope,1,,
 admin/security/max_number_password_reset_requests,0,,
