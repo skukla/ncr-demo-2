@@ -8,6 +8,7 @@
 * [ ] Create Casey's corporate account ahead of time
 * [ ] Create Michelle's corporate account ahead of time
 * [ ] Practice
+* [ ] Record video for the team
 
 ## Cloud VM
 * [ ] Recreate content on VM
