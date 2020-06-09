@@ -1,0 +1,3 @@
+site_code,site_name,site_order,is_default_site,store_code,store_name,store_root_category,is_default_store,view_code,view_name,is_default_view,view_order,view_is_active
+ncr_b2b,NCR B2B Website,2,,ncr_b2b_store,NCR B2B Store,Default Category,Y,ncr_b2b_us_en,US English,Y,,Y
+aloha,Aloha Website,3,,aloha_store,Aloha Store,Aloha Catalog,Y,aloha_us_en,US English,Y,,Y

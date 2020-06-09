@@ -1,0 +1,82 @@
+Use Cases:
+  - Net New Customer Ordering: 
+    - Description: 
+      Public-facing eCommerce to convert prospects into customers; standardized pricing and experience for all “guest” users. Initial order would be for the customer’s “initial site(s), but would then need to extend seamlessly into “existing customer” use cases as the prospect becomes a customer.
+    - Business Use Case:
+      - Summary: 
+        - NCR.com sells restaurant hardware/software package bundles to restaurant owners
+        - NCR.com shows list price to non-registered users
+        - When a customer registers for a company account, they are onboarded and given a unique pricing tier
+      - Examples: 
+        - Silver or Banking
+
+  - Existing Customer “Refresh” Programs: 
+    - Description:
+      Large technology rollout programs that require eCommerce to automate at scale; think 2000 franchisees across the country/world ordering for their own stores as part of a large corporate initiative. Authenticated with special pricing, etc.
+    - Business Use Case:
+      - Summary:
+        - Corporate user sees unique pricing tier and customized greeting...
+      - Key Features:
+        - Pricing group levels are shared
+        - Assisted/Pre-built cart and confirm
+      - Case Studies:
+        - Nestle -- see Kellogg deck
+      - GRA:
+        - See SUEZ
+
+  - “Pop-Up Stores”: 
+    - Description:
+      Ability to spin up independent stores from the same platform instance for one-off use cases. 
+    - Business Use Case:
+      - Summary:
+        - Show creation of one-off brand (See Kellogg)
+        - NCR creates new Aloha brand?
+      - Examples:
+        - One-off Windows 10 support extensions
+        - “NCR Store” for branded NCR merchandise.
+
+  - Partner ordering / White label Capabilities + Request A Quote:
+    - Description:
+      1. NCR’s channel partners or resellers. The white label customers have unique looks and feels, but not necessarily a unique marketing or commerce strategy (which means websites may not be necessary)
+      2. Pricing lives in a separate application (Not ERP). Future state doesn’t prohibit from migrating those functions.
+    - Business Use Case:
+      - Summary:
+        - Steve's Business Machines is an NCR Reseller
+        - b2b.ncr.com (SBM site powered by NCR)
+        - Restaurant buys through Steve's Business Machines
+        - Buyer submits a quote through NCR-powered portal to SBM sales rep
+        - SBM sales rep adds item to quote
+        - Buyer completes order and creates requisition list
+
+  - Bundled hardware/software packages: 
+    - Description:
+      Our products can be configured through product options, example, for a point of sale (POS) product a customer may choose to have one of two types of cash drawers, or credit card processors or operating system.
+    - Business Use Case:
+      - Summary:
+        - NCR sells product bundles
+        - Bundles include hardware and software
+      - Examples:
+        - We showed them this last time. They can use product custom options (depending on how those impact stock), or bundle products (depending on desired UX).
+
+Storefronts:
+  1. ncr.com (Net New Customer Ordering - Indiviual owner)
+  2. ncr.com (Existing Customer orders to replenish stuff)
+  3. b2b.ncr.com (Partner program -- Reseller selling to their own customers via NCR)
+  4. aloha.ncr.com (Pop-Up Store for a new brand)
+
+Story:
+Kendall's Diner is a family-owned restaurant known for its down-home food and friendly atmosphere. Casey Kendall has recently inherited the business and is looking to modernize the flagship location and expand into new markets. To do this, he wants to digitize his current Point-of-Sale solution and roll out three new locations with similar set-ups in the next 18 months.
+
+- Casey starts as new customer shopping for a POS
+- Eventually, he decides to go with NCR, so he becomes a registered customer
+- He searches the site and finds a POS solution that looks like it would be a great fit, but he wants a second opinion
+- So, he creates a quote, and reaches out to his sales rep, Phil Baker, his NCR sales rep and asks for Phil's recommendation for a POS
+- So, he creates a quote, and reaches out to his sales rep, Phil Baker, to ask for Phil's recommendation
+- Phil makes a recommendation and adds it to Casey's quote
+- Casey agrees, and then places an initial order
+- After his order is placed, Casey adds the packages he purchased to a Favorites List for easy re-ordering when the time comes to open a new location
+- Casey is now ready to make his second purchase, so he returns to ncr.com to find his previous order.
+- On the home page, he notices an advertisement for a new line of POS called Aloha.  
+- Intrigued, he clicks on the banner and is taken to the new Aloha brand site.  He likes what he sees and decides to go with the new brand for his new stores
+
+1. Build Bundle products for Magento but ALSO simple products for AEM

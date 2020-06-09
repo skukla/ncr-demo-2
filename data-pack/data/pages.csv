@@ -1,0 +1,4 @@
+stores,title,page_layout,meta_keywords,meta_description,identifier,content_heading,content,is_active,sort_order,layout_update_xml,custom_theme,custom_root_template,custom_layout_update_xml,custom_theme_from,custom_theme_to
+default,Home Page,cms-full-width,,,home,,,1,,,,,,,
+ncr_b2b_us_en,NCR B2B Home Page,cms-full-width,,,ncr-b2b-home,,,1,,,,,,,
+aloha_us_en,Aloha Home Page,cms-full-width,,,aloha-home,,,1,,,,,,,

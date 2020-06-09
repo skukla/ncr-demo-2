@@ -1,0 +1,11 @@
+name,url_key,path,active,is_anchor,include_in_menu,position,page_layout,display_mode,landing_page,image
+All Products,products,,1,1,1,1,,,,
+Back Office,back-office,,1,1,1,2,,,,
+Consumer Engagement,consumer-engagement,,1,1,1,3,,,,
+Self Ordering,jackets-women,,1,1,1,4,,,,
+Kitchen Production,kitchen-production,,1,1,1,5,,,,
+Mobile and Online Ordering,mobile-ordering,,1,1,1,6,,,,
+NCR Silver,ncr-silver,,1,1,1,7,,,,
+Digital Connected Services,digital-connected-services,,1,1,0,8,,,,
+POS Hardware,pos-hardware,,1,1,0,9,,,,
+Professional Services for Restaurants,professional-services,,1,1,0,10,,,,
