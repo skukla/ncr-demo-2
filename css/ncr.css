@@ -61,7 +61,8 @@ a.action.create.primary:hover {
 }
 
 /* Arrow Next To Logged-In Customer's Name */
-.customer-welcome .action.switch:after {
+.customer-welcome .action.switch:after,
+.customer-welcome .action.switch:hover {
 	color: #575757;
 }
 
