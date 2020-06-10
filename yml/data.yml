@@ -32,3 +32,24 @@ Aloha
 - Aloha Kitchen
 - Aloha Takeout & Delivery
 - Aloha Guest Manager
+
+Braintree:
+"braintree": {
+  "active": false,
+  "merchant_account_id": "magento",
+  "merchant_id": "zkw2ctrkj75ndvkc",
+  "public_key": "n2bt4844t6xrt56x",
+  "private_key": "e6c98fd99fe699d4169475fef026d5b9",
+  "payment_action": "authorize",
+  "cctypes": ["Visa", "MasterCard"]
+}
+
+UPS:
+"ups": {
+  "active": false,
+  "username": "magento",
+  "password": "magento200",
+  "access_license_number": "ECAB751ABF189ECA",
+  "shipper_number": "207W88",
+  "allowed_methods": ["UPS Ground", "UPS Next Day Air"]
+}
